@@ -58,12 +58,11 @@ a:visited {
 
 .left-third, .middle-third, .right-third {
     flex: 1;
+    margin: 4px;
     padding: 20px;
     border: solid rgb(0, 84, 193) 8px;
     background-color: cornflowerblue;
-    color: aliceblue
-    
-    
+    color: aliceblue 
 }
 
 .split-container {
