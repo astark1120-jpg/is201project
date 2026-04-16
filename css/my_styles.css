@@ -59,6 +59,9 @@ a:visited {
 .left-third, .middle-third, .right-third {
     flex: 1;
     padding: 20px;
+    border: solid rgb(0, 84, 193) 2px;
+    background-color: cornflowerblue;
+    
 }
 
 .split-container {
